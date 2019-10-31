@@ -1,0 +1,253 @@
+$letterColor: white;
+
+
+
+@media (max-width: 760px) {
+  .hamburger {
+    display: block;
+  }
+}
+
+@media (max-width: 760px) {
+  /* CSS for narrow screens */
+  /* Hide the drop-down menu */
+  .menu {
+    position: absolute;
+
+  }
+  /* The top bar that shows the hamburger icon */
+
+  /* Each link in the dropdown menu */
+  .menu a {
+    padding: 10px 0 20px;
+    text-align: center;
+    text-decoration: none;
+    border-right: none;
+
+  }
+  input[type=checkbox] ~ .menu {
+    display: none;
+
+  }
+
+}
+
+@media (max-width: 760px) {
+  .header-responsive {
+    height: 23%;
+  }
+}
+
+.menu {
+  width: 100%;
+  overflow: hidden;
+  margin-left: 5px;
+
+  a {
+    display: block;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: $letterColor;
+  }
+}
+
+/* elke link in het nav menu */
+
+/*when the box is checked the menu appears */
+
+input[type=checkbox]:checked ~ .menu {
+  display: block;
+  transition: 2s;
+}
+
+/* hamburger picture*/
+
+.burger {
+  width: 36px;
+  height: 36px;
+  padding: 10px 0 0 10px;
+}
+
+
+input[type=checkbox] {
+  display: none;
+}
+
+@media (max-width: 500px) {
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+  }
+
+}
+
+@media (max-width: 900px) {
+  img {
+    padding-top: 30%;
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 600px) {
+  h1 {
+    padding-top: 15%;
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 991px) {
+  .home {
+    height: 150vh;
+  }
+  .aboutme {
+    height: 90vh;
+    padding-bottom: 0;
+  }
+
+}
+
+@media (max-width: 991px) {
+  .home{
+    height: 150vh;
+  }
+  .aboutme {
+    height: 130vh;
+  }
+
+  .grid {
+    height: 100px !important;
+    grid-template-columns: auto;
+    padding: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .grid {
+    height: 1000px;
+    grid-template-columns: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .item1 {
+
+    margin-left:66px;
+  }
+
+}
+
+
+@media (max-width: 991px) {
+  .item2 {
+    margin-left: 60px;
+    grid-column: 1;
+    //makes the colums go beneath eachother
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .about-content p {
+    text-align: center;
+    font-size: 13px;
+    margin-left: 20px;
+
+  }
+}
+
+@media (max-width: 768px) {
+  h3 {
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
+  }
+  .info {
+    margin: 0;
+    font-size: 15px;
+  }
+  .scrolling {
+    margin: 140px 0 0 0;
+    padding: 0 0 20px;
+  }
+  .handtekenig {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media (max-width: 991px) {
+  .foto {
+    height: 200px;
+  }
+  .center-image {
+    display: flex;
+    justify-content: center;
+  }
+  .item2 {
+   // margin-top: 250px;
+    margin-left: 0;
+  }
+  h3 {
+   // margin-top: 100px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .foto {
+    width: 250px;
+    height: 250px;
+  }
+  .item2 {
+    margin-top: 0;
+  }
+  .center-image {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1163px) {
+  .label2 {
+    left: 470px;
+  }
+  fieldset {
+    margin-left: -15px;
+  }
+}
+
+@media (max-width: 1100px) {
+  hr {
+    width: 300px;
+  }
+
+}
+
+@media (max-width: 768px){
+  .label2{
+    left:100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact {
+    height: 155vh;
+  }
+  .label2 {
+    left: 60px
+  }
+
+  fieldset {
+    margin-left: 45px;
+  }
+  input, textarea {
+    width: 225px;
+  }
+.btn{
+margin-left: 7%;
+}
+}
+

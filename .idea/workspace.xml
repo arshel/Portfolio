@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9e5d190-310b-49bd-ac0e-a933ff6f2e3e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/mobile.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3349">
+              <caret line="197" column="1" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.css/main.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9112">
+              <caret line="536" selection-start-line="536" selection-end-line="536" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mobile.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>porr</find>
+      <find>about</find>
+      <find>por</find>
+      <find>act</find>
+      <find>info</find>
+      <find>grid</find>
+      <find>gr</find>
+      <find>cont</find>
+      <find>.M</find>
+      <find />
+      <find>ski</find>
+      <find>contain</find>
+      <find>container</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/assets/js/plugins.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Temp1_Jwood Photography Free Website Template - Free-CSS.com.zip/one-page-portfolio-landing-page/assets/css/style.css" />
+        <option value="$USER_HOME$/Downloads/jquery-3.3.1.min.js" />
+        <option value="$PROJECT_DIR$/header.js" />
+        <option value="$PROJECT_DIR$/main.scss" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/main.css/main.css" />
+        <option value="$PROJECT_DIR$/css/mobile.scss" />
+        <option value="$PROJECT_DIR$/sass/mail.php" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/../portfolioBootstrap/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/sass/mobile.scss" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/sass/main.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="5" />
+    <option name="width" value="1350" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Portfolio-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Dropbox\frond-end.porto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="header.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.header.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e5d190-310b-49bd-ac0e-a933ff6f2e3e" name="Default" comment="" />
+      <created>1521185967621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521185967621</updated>
+      <workItem from="1521185996831" duration="3491000" />
+      <workItem from="1521536381247" duration="8692000" />
+      <workItem from="1521619354030" duration="4870000" />
+      <workItem from="1521707733915" duration="5463000" />
+      <workItem from="1521790387674" duration="5160000" />
+      <workItem from="1521887479531" duration="4090000" />
+      <workItem from="1522057877851" duration="956000" />
+      <workItem from="1522140456389" duration="7365000" />
+      <workItem from="1522225774630" duration="7728000" />
+      <workItem from="1522310696728" duration="10205000" />
+      <workItem from="1522397103469" duration="13613000" />
+      <workItem from="1522504446795" duration="5479000" />
+      <workItem from="1522581077940" duration="4474000" />
+      <workItem from="1522737873675" duration="8713000" />
+      <workItem from="1522857893198" duration="8358000" />
+      <workItem from="1522913950248" duration="10667000" />
+      <workItem from="1522996452015" duration="7838000" />
+      <workItem from="1523183853281" duration="5271000" />
+      <workItem from="1523270537279" duration="8831000" />
+      <workItem from="1523349810645" duration="87000" />
+      <workItem from="1523363552406" duration="3272000" />
+      <workItem from="1523438765957" duration="7856000" />
+      <workItem from="1523453565473" duration="4202000" />
+      <workItem from="1523467967000" duration="5720000" />
+      <workItem from="1523474247673" duration="40000" />
+      <workItem from="1523518616784" duration="830000" />
+      <workItem from="1523798873954" duration="4574000" />
+      <workItem from="1523962312449" duration="2320000" />
+      <workItem from="1524223195028" duration="864000" />
+      <workItem from="1526902871912" duration="2871000" />
+      <workItem from="1526975152731" duration="780000" />
+      <workItem from="1527070132063" duration="21119000" />
+      <workItem from="1527244580323" duration="604000" />
+      <workItem from="1527354153690" duration="2331000" />
+      <workItem from="1527405095717" duration="2084000" />
+      <workItem from="1527578511618" duration="7161000" />
+      <workItem from="1527670022753" duration="5652000" />
+      <workItem from="1528019290979" duration="2183000" />
+      <workItem from="1560980283330" duration="98000" />
+      <workItem from="1561374759526" duration="223000" />
+      <workItem from="1571601742635" duration="2309000" />
+      <workItem from="1572442140691" duration="2673000" />
+      <workItem from="1572449922439" duration="2627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="219781000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18456376" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935917" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CSS Styles" order="7" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932885" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pexels-photo-326337.jpeg" />
+    <entry file="file://$PROJECT_DIR$/pexels-photo-167684.jpeg" />
+    <entry file="file://$USER_HOME$/Downloads/My_Fontspring_Fonts/Webfonts/nexa_lightfree_macroman/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.template.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Jwood Photography Free Website Template - Free-CSS.com.zip/one-page-portfolio-landing-page/assets/css/style.css" />
+    <entry file="file://$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/assets/css/responsive.css" />
+    <entry file="file://$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/assets/js/plugins.js" />
+    <entry file="file://$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/assets/js/jquery.magnific-popup.js" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.3.1.min.js" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.3.1.min.map" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.3.1.slim.min.js" />
+    <entry file="file://$PROJECT_DIR$/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12546" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.3.1.js" />
+    <entry file="file://$USER_HOME$/Downloads/jquery-3.3.1.slim.min (1).js" />
+    <entry file="file://$PROJECT_DIR$/main.scss" />
+    <entry file="file://$PROJECT_DIR$/css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/achtergrondPorto.jpeg" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp2_Jwood Photography Free Website Template - Free-CSS.com.zip/one-page-portfolio-landing-page/assets/js/jquery.magnific-popup.js" />
+    <entry file="file://$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../ArshelMelforPortofolio/index.html" />
+    <entry file="file://$PROJECT_DIR$/../ArshelMelforPortofolio/styles.css" />
+    <entry file="file://$PROJECT_DIR$/mail.php" />
+    <entry file="file://$PROJECT_DIR$/../../php projecten/opdracht 7/7-2.php" />
+    <entry file="file://$PROJECT_DIR$/../../php projecten/opdracht 7/7-3.php" />
+    <entry file="file://$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/Jwood Photography Free Website Template - Free-CSS.com/one-page-portfolio-landing-page/assets/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/../portfolioBootstrap/index.html" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/favicon-32x32.png" />
+    <entry file="file://$PROJECT_DIR$/138.gif" />
+    <entry file="file://$PROJECT_DIR$/Preloader_5.gif" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/mobile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3349">
+          <caret line="197" column="1" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9112">
+          <caret line="536" selection-start-line="536" selection-end-line="536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
